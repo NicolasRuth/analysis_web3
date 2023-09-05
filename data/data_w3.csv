@@ -1,0 +1,45 @@
+﻿month;year;coder;magazine;ressort;title;type;relevance;main_sub;w3_topic_1;w3_topic_2;w3_topic_3;w3_topic_4;topic;people_1;people_2;people_3;companies_1;companies_2;companies_3;framing;eou_tam;usa_tam;enj_tam
+5;2021;LW;Backspin;Lifestyle;SIEGFRIED trifft auf Graffiti-Kunst: Extremer Ansturm auf Limited Art-Edition mit 1UP Sprayer-Crew legt Server down;Beitrag;1;2;NFT;Ethereum;Blockchain;;art;OneUnitedPower;;;SIEGFRIED;OpenSea;;2;-1;1;1
+3;2022;LW;Backspin;Lifestyle;Wrangler kündigt NFT-Drops an;Beitrag;1;1;NFT;Blockchain;Metaverse;;marketing;Leon Bridges;;;Wrangler;OpenSea;;2;1;1;1
+1;2021;LW;Musikwoche;Recorded & Publishing;IMUC will den Weg bereiten;Beitrag;1;2;NFT;Blockchain;;;digital transformation;Interessenverband Musikmanager & Consultants;;;;;;0;;;
+1;2021;LW;Musikwoche;Meinung;Frederick Longatte;Kommentar;1;2;NFT;Blockchain;Smart Contract;;album release;Frederick Longatte;;;Secutix;;;2;0;1;
+3;2021;LW;Musikwoche;Dossier;"""Wer jungen Talenten keine Perspektive gibt, verliert sie.""";Beitrag;1;2;NFT;Blockchain;;;education;Andre Mühlhausen;;;Sony Music;;;1;;0;
+5;2021;LW;Musikwoche;Recorded & Publishing;Die Blockchain-Gang;Kommentar;1;1;NFT;Blockchain;Smart Contract;Bitcoin;copyright;Kings of Leon;Walter Gröbchen;;;;;1;0;1;1
+6;2021;LW;Musikwoche;Recorded & Publishing;Rückkehr von m4music mit über 4000 Musikfans und 1300 Professionals;Beitrag;1;2;NFT;Blockchain;Metaverse;Web 3.0;music festival;Didi;Feggy Min;Simon Emanuel Schmid;;;;0;;;
+11;2021;LW;Musikwoche;Recorded & Publishing;m4music auf der Zielgeraden;Ankündigung;1;2;NFT;Blockchain;Metaverse;Web 3.0;music festival;Didi;Feggy Min;Simon Emanuel Schmid;;;;0;;;
+11;2021;LW;Musikwoche;Editorial;Einblicke in neue Realitäten;Kommentar;1;1;Metaverse;Web 3.0;NFT;;digital transformation;;;;twelve x twelve;;;1;;;
+3;2022;LW;Musikwoche;Recorded & Publishing;"""Wir glauben an das Web3-Thema""";Reportage;1;1;NFT;Metaverse;Blockchain;Web 3.0;monetization;Philipp Köhn;Jan Denecke;;twelve x twelve;;;2;1;1;1
+4;2022;LW;Musikwoche;Dossier;Gib dem Affen Zucker;Beitrag;1;1;NFT;Metaverse;Blockchain;Web 3.0;digital transformation;;;;Niftee;Rebeat Digital;;1;0;0;0
+4;2022;LW;Musikwoche;Editorial;Blick in die Glaskugel;Kommentar;1;1;Blockchain;Web 3.0;NFT;;digital transformation;;;;;;;-1;0;0;0
+9;2022;LW;Musikwoche;Dossier;"""Die Blockchain-Technologie wird bleiben...""";Reportage;1;1;Blockchain;NFT;;;digital transformation;Marit Posch;Holger Christoph;Jan Denecke;Warner Music;twelve x twelve;biddz;1;0;0;0
+10;2022;LW;Musikwoche;Dossier;Längst überfällige Digitalisierung;Beitrag;1;2;Blockchain;;;;digital transformation;Norbert Stockmann;;;Secutix;;;1;;1;
+11;2022;LW;Musikwoche;Die Woche;Parliament of Pop füllt sich;Ankündigung;1;2;NFT;;;;album release;Ralph Larmann;Anika Patz;Loren Mc Shane;Sutherland;Sentric Music;Rocki.app;0;;;
+5;2021;LW;NMZ;k.A.;Der Online-Unterricht bleibt auch nach der Pandemie;Beitrag;1;2;Metaverse;;;;education;Sebastian Riegelbauer;;;;;;1;;0;0
+5;2016;NR;Musikwoche;Dossier;Die Blockchain in der Musikindustrie;Beitrag;1;1;Blockchain;Bitcoin;;;music business;;Florian Drücke;Peter Tschmuck;BVMI;;;0;-1;-1;0
+9;2016;NR;Musikwoche;Dossier;GEMA zeigt auf dem Reeperbahn Festival Flagge;Beitrag;1;2;Blockchain;;;;conference;;;;GEMA;;;0;;;
+10;2016;NR;Musikwoche;Biz;Most Wanted: Music lässt Satelliten steigen;Beitrag;1;2;Blockchain;;;;conference;;;;Most Wanted: Music;;;0;;;
+1;2017;NR;Musikwoche;Dossier;Auf dem Spielplan steht Europa;Beitrag;1;2;Blockchain;;;;music festival;;;;;;;0;;;
+3;2017;NR;Musikwoche;Livebiz;c/o pop stellt mehr aufastrebende Acts ins Schaufenster;Beitrag;1;2;Blockchain;;;;conference;;;;;;;0;;;
+4;2017;NR;Musikwoche;login;GEMA-Schwestern erproben Blockchain;Meldung;1;1;Blockchain;;;;collecting societies;;;;ASCAP;PRS;SACEM;0;;;
+8;2017;NR;Musikwoche;Editorial;Blockchain und die Musikindustrie;Kommentar;1;1;Blockchain;;;;music business;;Benji Rogers;;;;;1;0;1;0
+8;2017;NR;Musikwoche;Dossier;Köln kann's;Beitrag;1;2;Blockchain;;;;conference;;;;;;;0;;;
+9;2017;NR;Musikwoche;Recorded & Publishing;c/o pop bot Partnern Präsentationsflächen;Beitrag;1;2;Blockchain;;;;conference;;;;;;;0;;;
+9;2017;NR;Musikwoche;News;Musikdialog diskutierte zum Reeperbahn Festival;Meldung;1;2;Blockchain;;;;conference;;;;;;;0;;;
+11;2017;NR;Musikwoche;Artists;Feministisches Wunderwerk;Beitrag;1;2;Kryptowährung;Bitcoin;Audiocoin;Litecoin;album release;;;;;;;0;;;
+11;2018;NR;Musikwoche;Dossier;Wie verkaufen wir künftig Karten?;Beitrag;1;2;Blockchain;;;;ticketing;;Klaus Zemke;;;;;2;0;1;0
+11;2018;NR;Musikwoche;News;Most Wanted: Music zieht am Eröffnungstag die Mengen N;Beitrag;1;2;Blockchain;;;;conference;;;;;;;0;;;
+8;2016;NR;Musikwoche;Dossier;Volles Haus in Köln;Beitrag;1;2;Blockchain;;;;conference;;Benji Rodgers;;;;;0;;;
+9;2016;NR;Musikwoche;Biz;VUT zurrt Programm der Indie Days fest;;1;2;Blockchain;;;;music festival;;;;;;;0;;;
+7;2018;NR;Groove;;Wilde Möhre Festival 2018: Erste Line-Up-Ankündigung;Beitrag;1;2;Blockchain;;;;music festival;;;;Wilde Möhre Festival;;;0;;;
+12;2017;NR;Groove;;Blockchain: Kohle und Utopien;Interview;1;1;Kryptowährung;Bitcoin;;;music business;;Mat Dryhurst;;;;;2;0;1;0
+2;2018;NR;Backspin;;Das größte Debütalbum aller Zeiten: „Get Rich or Die Tryin'“;Beitrag;1;2;Bitcoin;;;;album release;;50 Cent;;;;;0;;;
+1;2019;KMZ;Musikwoche;Recorded & Publishing;Bookwire steigert Umsatz im Audiobereich um 44 Prozent;Beitrag;1;2;Big Data;;;;audio books;Jens Klingelhöfer;;;Bookwire;;;1;;;
+1;2019;KMZ;Musikwoche;Recorded & Publishing;Mit Fanvestory investieren Fans direkt in die Musik;Beitrag;1;1;Blockchain;;;;licensing;Birgit Karus;;;Fanvestory;finetunes;The Orchard;2;1;1;
+1;2019;KMZ;Musikwoche;Live;DEAG übernimmt Springer-Anteile von myticket;Beitrag;1;1;Blockchain;;;;ticketing;Peter Schwenkow;;;DEAG;myticket;Axel Springer;2;1;1;
+2;2019;KMZ;Musikwoche;Live;Schlussverkauf in der Konzertbranche;Beitrag;1;2;Blockchain;;;;music festival;Michael Novogratz;Peter Schwenkow;;DEAG;Galaxy Digital;;0;;;
+3;2019;KMZ;Musikwoche;Recorded & Publishing;Operation Ton wagt den Spagat zwischen Subkultur und Musikbranche;Beitrag;1;2;Blockchain;;;;conference;Andrea Rothaug;;;RockCity;;;0;;;
+5;2019;KMZ;Musikwoche;Live;Der Anfang vom Ende?;Beitrag;1;1;Blockchain;;;;ticketing;Klaus Zemke;Sandro Spieß;Morizt Schwenkow;Ticketmaster;Eventbrite;myticket;2;1;1;
+9;2019;KMZ;Musikwoche;Die Woche;von der Leyen setzt Vestager auf den Digitalmarkt an;Meldung;1;2;Big Data;;;;politics;Margrethe Vestager;;;;;;0;;;
+11;2019;KMZ;Musikwoche;Recorded & Publishing;Mit der Blockchain langjährige Probleme lösen;Beitrag;1;1;Blockchain;;;;licensing;Stefan Schulz;Johannes Cordes;;Universal Music;Bitfury Surround;Youtube;2;;1;
+11;2019;KMZ;Musikwoche;Recorded & Publishing;MW:M setzte Impulse zur Zukunft der Kreativität;Beitrag;1;1;Blockchain;;;;music distribution;Scott Cohen;Florian Drücke;;Warner Music Group;Youtube;;2;;1;
+5;2020;KMZ;Musikwoche;Recorded & Publishing;Time flies when you are having fun;Interview;1;1;Blockchain;;;;music business;Manlio Celotti;;;The Orchard;Membran;Sony Music;1;;;
